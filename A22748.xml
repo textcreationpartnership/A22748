@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of peace agreed vpon, betwixt the two crownes of Great Brittaine and of France And the publication of the peace, made at Rouen, on Sunday, the 20. of May, last past, by the commandement of the French King, and the Queene his mother. Translated out of the French copy. = Les articles de la paix, accordeé entre le Roy de France &amp; le Roy de la Grand' Bretagne. Ensemble la publication faite a Rouen, le dimanche vingtiesme de ce present mois, par le commandement du Roy &amp; de la Reyne sa mere. A Rouen de l'imprimerie de Dauid du Petit val, imprimeur ordinaire du Roy. M.DC.XXIX. Auec priuilege du dict Seigneur. Together with two other relations. The one concerning the siege and taking of the towne of Priuas by the French King ... The others from the sieges of the Prince of Orenge, before the towne of Balduck, or the Bush.</title>
+            <title>Treaties, etc. France. 1629-05-20</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22748</idno>
+            <idno type="STC">STC 9250</idno>
+            <idno type="STC">ESTC S101024</idno>
+            <idno type="EEBO-CITATION">99836849</idno>
+            <idno type="PROQUEST">99836849</idno>
+            <idno type="VID">1139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1378:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of peace agreed vpon, betwixt the two crownes of Great Brittaine and of France And the publication of the peace, made at Rouen, on Sunday, the 20. of May, last past, by the commandement of the French King, and the Queene his mother. Translated out of the French copy. = Les articles de la paix, accordeé entre le Roy de France &amp; le Roy de la Grand' Bretagne. Ensemble la publication faite a Rouen, le dimanche vingtiesme de ce present mois, par le commandement du Roy &amp; de la Reyne sa mere. A Rouen de l'imprimerie de Dauid du Petit val, imprimeur ordinaire du Roy. M.DC.XXIX. Auec priuilege du dict Seigneur. Together with two other relations. The one concerning the siege and taking of the towne of Priuas by the French King ... The others from the sieges of the Prince of Orenge, before the towne of Balduck, or the Bush.</title>
+                  <title>Treaties, etc. France. 1629-05-20</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>France. Treaties, etc. England and Wales. 1629-05-20. aut</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Elizabeth Allde] for Nicholas Bourne, dwelling at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>French text followed by the English translation.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1139:1"/>
+            <pb facs="tcp:1139:1" rendition="simple:additions"/>
+            <p>THE ARTICLES OF PEACE AGREED VPON, betwixt the two Crownes of Great BRITTAINE and of FRANCE.</p>
+            <p>And the publication of the Peace, made at ROVEN, on Sunday, the 20. of May, laſt paſt, by the commandement of the French King, and the Queene his Mother. Tranſlated out of the French copy.</p>
+            <p>
+               <hi>LES ARTICLES DE LA PAIX, accordée entre le Roy de France &amp; le Roy de la Grand' Bretagne.</hi>
+            </p>
+            <p>
+               <hi>Enſemble la publication faite a Rouen, le Dimanche Yingtieſme de ce preſent mois, par le commandement du Roy &amp; de la Reyne ſa mere.</hi>
+            </p>
+            <p>
+               <hi>A Rouen de l'imprimerie de Dauid du Petit val, Imprimeur ordinaire du Roy. M.DC.XXIX. Auec priuilege dudict Seigneur.</hi>
+            </p>
+            <p>
+               <hi>Together with two other Relations.</hi> The one concerning the ſiege and taking of the towne of <hi>Priuas</hi> by the French King, with the loſſe of many men of note, and of the extremity vſed to the defendants vpon the taking thereof. The others from the ſieges of the Prince of <hi>Orenge,</hi> before the towne of <hi>Balduck,</hi> or the <hi>Buſh.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for NICHOLAS BOVRNE, dwelling at the South entrance of the Royall Exchange. 1629.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="fre" type="proclamation">
+            <pb facs="tcp:1139:2"/>
+            <pb n="1" facs="tcp:1139:2"/>
+            <head>DE PARLE ROY, ET La Reyne ſamere, ayant le Gou<g ref="char:EOLhyphen"/>uernement des Prouinces de deça le Loyre, pendant l'abſence de ſa Majeſté.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N fait ſçauoir, que Paix, Alliance &amp; bonne Confederation a eſté concluë en<g ref="char:EOLhyphen"/>tre Treſ-haut, Treſ-puiſſant, &amp; Treſ-excellent Prince LOVIS parlagrace de Dieu Roy de France &amp; de Nauarre, noſtre Souuerain Seigneur: Et Treſ-haut, Treſ-tuiſſant, &amp; Treſ-excellent Prince CHARLES par la meſme grace de Dieu Roy de la Grand' Bretagne, &amp; leurs ſub<g ref="char:EOLhyphen"/>iects deſdits Royaumes, ſelon leurs anciennes Alliances &amp; Confederations, demeurant les anciens Traicteztant de Paix, Alliance, &amp; Ligue defenſiue, que ceux faits ſur le ſubiect du Commerce, en leur pleine &amp; entiere force, ſans que par les actes d'hoſtilité commiſes ils puiſ<g ref="char:EOLhyphen"/>ſent eſtre dits auoir eſté enfraints pour l'aduenir: Et d'autant qu'il à eſté expedié de part &amp; d'autre pluſieurs
+<pb n="2" facs="tcp:1139:3"/>Commiſsions pour faire la guerre ſur mer, &amp; qu'auiour du Traicté arreſté, ny a celuy de la Publication, les Capi<g ref="char:EOLhyphen"/>taines qui ſont en mer n'en peuuent anoir cognoiſſance, il leur eſt donné deux mois de tomps du iour de la ſigna<g ref="char:EOLhyphen"/>ture deſdits Articles pour reuenir, pendant leſquels ce qu'ils pourront faire ne ſera interpreté à rupture ou con<g ref="char:EOLhyphen"/>trauention à la preſente Paix, mais tout ce qui aura eſté pris par eux ſera reſtitué à la premiere demande, ſi les Equipages n'ont eſté relaſchez dés l'inſtant qu'ils ſont ar<g ref="char:EOLhyphen"/>riuez au port.</p>
+            <closer>
+               <dateline>Fait à Paris <date>le dixneufieſme iour de May, <hi>1629.</hi>
+                  </date>
+               </dateline>
+               <signed>Signé Et plus bas, MARIE. DELOMENIE.</signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="proclamation">
+            <pb n="3" facs="tcp:1139:3"/>
+            <head>The French Proclamation Engliſhed. BY THE KING, AND The Queene his mother, hauing the gouernment of the Prouinces on this ſide of the riuer of Loyre, during the abſence of his Maieſtie.</head>
+            <p>
+               <seg rend="decorInit">B</seg>EE it knowne, that there hath beene concluded a peace, alliance and good confederation betwixt the moſt ex<g ref="char:EOLhyphen"/>cellent, high and mighty Prince LEWIS, by the grace of God, King of France and Nauarre, our Soueraigne Lord: And the moſt excelle<g ref="char:cmbAbbrStroke">̄</g>t, high &amp; mighty Prince CHARLES, by the ſame grace of God, King of Great Brit<g ref="char:EOLhyphen"/>taine, and their ſubiects of the ſaid Kingdomes, according to the ancient and former alliances &amp; confederations thereof, the ancient Treaties both of peace, alliance and of a defenſiue league, and alſo thoſe that haue beene made concerning the Commerce and trading, remaining in their full
+<pb n="4" facs="tcp:1139:4"/>&amp; perfect ſtrength, ſo that they may not be ſaid to haue beene infringed for the time to come, by the actes of hoſtily lately committed: And whereas many Commiſſions on both parts haue beene graunted to make warre vpon the ſea; and for<g ref="char:EOLhyphen"/>aſmuch as vpon the day prefixed in the Treaty, nor vpon the day of the publication thereof, the Captaines that are at ſea cannot haue knowledge thereof, there is granted vnto them the ſpace of two moneths from the day of the ſignature of the ſaid Articles, to returne home; during which time what may be done by them, ſhall not be ta<g ref="char:EOLhyphen"/>ken for a rupture or contrauention to this preſent peace: But whatſoeuer ſhall haue beene taken by them, ſhall be reſtituted vpon the firſt asking, if ſo be that preſent reſtitution and relaxation hath not beene made thereof, as ſoone as they came in<g ref="char:EOLhyphen"/>to the Port or Hauen.</p>
+            <closer>
+               <dateline>Giuen at Paris <date>the nine<g ref="char:EOLhyphen"/>teenth of May, 1629.</date>
+               </dateline>
+               <signed>Signed And beath, MARIE. DELOMENIE.</signed>
+            </closer>
+         </div>
+         <div xml:lang="fre" type="text">
+            <pb n="5" facs="tcp:1139:4"/>
+            <head>ARTICLES DE PAIX ENTRE LES DEVX COVRONNES.</head>
+            <div n="1" type="article">
+               <head>1.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>Remierement, les deux Roys de<g ref="char:EOLhyphen"/>meureront d'accord de renouueller les anciennes alliances entre les deux Couronnes, &amp; les garder inuiola<g ref="char:EOLhyphen"/>blement, auec ouuerture du Com<g ref="char:EOLhyphen"/>merce ſeur &amp; libre. Et pour le regard dudit Com<g ref="char:EOLhyphen"/>merce, s'il y a quelque choſe à adjouſter ou di<g ref="char:EOLhyphen"/>minuer, ſe fera de part &amp; d'autre de gré à gré, ain<g ref="char:EOLhyphen"/>fi qu'il ſera jugé à propos.</p>
+            </div>
+            <div n="2" type="article">
+               <head>2.</head>
+               <p>Et d'autant qu'il ſeroit difficile de faire les re<g ref="char:EOLhyphen"/>ſtitutions de part &amp; d'autre des diuerſes priſes, qui ont eſté faites durant la guerre, les deux Cou<g ref="char:EOLhyphen"/>ronnes ſont demeurées d'accord, qu'il ne s'en fe<g ref="char:EOLhyphen"/>ra aucune: Et ne s'accordera aucune repreſaille par mer ou autre façon quelconque, pource qui s'eſt paſſe entre les deux Roys &amp; leurs ſubiects du<g ref="char:EOLhyphen"/>rant cette derniere guerre.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="6" facs="tcp:1139:5"/>
+               <head>3.</head>
+               <p>Quant à ce qui regarde les Articles &amp; Con<g ref="char:EOLhyphen"/>tract du Mariage de la Reyne de la Grand' Bre<g ref="char:EOLhyphen"/>tagne, Ils ſeront confermez de bonne foy: Et ſur ce qui concerne la Maiſon de la Reyne, s'il yà quelque choſe à adjouſter ou diminuer, ſe fera de part &amp; d'autre, de gré à gré, ainſi que ſera jugé à propos pour le ſeruice de ladite Reyne.</p>
+            </div>
+            <div n="4" type="article">
+               <head>4.</head>
+               <p>Toutes les anciennes Alliances, tant de l'vne que de l'autre Couronne demeureront en leur vi<g ref="char:EOLhyphen"/>gueur, ſans que pour ce preſent Traicté il y ait au<g ref="char:EOLhyphen"/>cune alteration.</p>
+            </div>
+            <div n="5" type="article">
+               <head>5.</head>
+               <p>Les deux Roys par ce preſent Traité eſtant reünis en l'affection &amp; intelligence, en laquelle ils eſtoient auparauant; s'employeront reſpecti<g ref="char:EOLhyphen"/>uement à donner aſſiſtance a leurs Alliez &amp; amis, ſelon que la conſtiturion des affaires &amp; l'aduanta<g ref="char:EOLhyphen"/>ge du bien publicq le requerront &amp; le pourront permettre: Le tout à deſſein, de procurer vn en<g ref="char:EOLhyphen"/>tier repos à la Chreſtienté, pour le bien de la<g ref="char:EOLhyphen"/>laquelle les Ambaſſadeurs des deux Couronnes ſeront chargez de Propoſitions &amp; d'ouuertures.</p>
+               <p>Toutes leſdites choſes eſtant reſtablies &amp; ac<g ref="char:EOLhyphen"/>ceptées de coſté &amp; d'autre: Ambaſſadeurs Extra<g ref="char:EOLhyphen"/>ordinaires,</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="7" facs="tcp:1139:5"/>
+               <head>6.</head>
+               <p>perſonnes de qualité, ſeront en<g ref="char:EOLhyphen"/>uoyez reciproquement auec ratification de ce preſent Accord: leſquels porteront auſſi la deno<g ref="char:EOLhyphen"/>mination des Ambaſſadeurs Ordinaires, pour reſider à l'vne &amp; à l'autte Cour, afin de rafermir ceſte bonne vnion, &amp; empeſcher toutes les occa<g ref="char:EOLhyphen"/>ſions qui la pourront troubler.</p>
+            </div>
+            <div n="7" type="article">
+               <head>7</head>
+               <p>Et d'autant qu'il y a beaucoup de vaiſſeaux en<g ref="char:EOLhyphen"/>cores en mer auec lettres de marque &amp; pouuoir de combattre les ennemis, qui ne pourront pas ſi toſt entendre ceſte Paix, ny receuoir ordre de s'ab<g ref="char:EOLhyphen"/>ſtenir de toute hoſtilité, Il ſera accordé par ceſt Article que tout ce qui ſera pris dans l'eſpace de deux mois, depuis la ſignature du Traité, ſera reſtitué de part &amp; d'autre.</p>
+            </div>
+            <div n="8" type="article">
+               <head>8</head>
+               <p>Les deux Rois ſigneront les preſents Articles dans le 24. du mois d'Auril, leſquels ſeront con<g ref="char:EOLhyphen"/>ſignez au meſme temps par leur commandement es mains des ſieurs Ambaſſadeurs de Venice, reſi<g ref="char:EOLhyphen"/>dens pres de leur perſonnes, pour les deliurer re<g ref="char:EOLhyphen"/>ciproquement auſdits deux Roys à iour prefix in<g ref="char:EOLhyphen"/>continent que chacun d'eux aura ſçeu l'vn de l'au<g ref="char:EOLhyphen"/>tre qu'ils ont leſdits Articles entre les mains, Et du iour de la ſignature tous actes d'hoſtilité tant par mer que par terre ceſſeront, Et les Proclama<g ref="char:EOLhyphen"/>tions neceſſaires à cét effect ſeront faites en meſme iour dans les deux Royaumes.</p>
+            </div>
+         </div>
+         <div xml:lang="eng" type="text">
+            <pb n="8" facs="tcp:1139:6"/>
+            <head>THE TRANSLATION OF THE ARTICLES OF PEACE BETWIXT THE TWO CROWNES.</head>
+            <div n="1" type="article">
+               <head>1.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, the two Kings ſhall remaine agreed, to renew the ancient alliances betwixt the two Crownes, and to kéepe the ſame inui<g ref="char:EOLhyphen"/>olably, opening again the Commerce ſure and frée. And concerning the ſaid Com<g ref="char:EOLhyphen"/>merce, if there is any thing to be added or diminiſhed about the ſame, It ſhall be done on both parts fréely and willingly, as it ſhall bee thought con<g ref="char:EOLhyphen"/>uenient.</p>
+            </div>
+            <div n="2" type="article">
+               <head>2.</head>
+               <p>And for as much as it ſhould be difficult to make the reſtitutions on the one and the other part of the diuers prizes, which during this warre haue beene taken: The two Crownes are agreed, that there ſhall be made no re<g ref="char:EOLhyphen"/>ſtitution; And there ſhall alſo not be granted any reprizal by Sea, nor by any other wayes whatſoeuer, for what is
+<pb n="9" facs="tcp:1139:6"/>paſt betwixt the two Kings and their Subiects, during this laſt warre.</p>
+            </div>
+            <div n="3" type="article">
+               <head>3.</head>
+               <p>Concerning the Articles and contract of the marriage of the Quéene of Great Brittaine, the ſame are to be con<g ref="char:EOLhyphen"/>firmed faithfully: And as for the ſaid Quéenes Houſhold. If there is any thing to be added or diminiſhed, it ſhall be done by a mutuall conſentment freely and willingly, as it ſhall be iudged fit and conuenient for the ſeruice of the ſaid Queene.</p>
+            </div>
+            <div n="4" type="article">
+               <head>4.</head>
+               <p>All former and ancient alliances, both of the one and of the other Crowne, ſhall remaine in their full force, they receiuing no alteration by this preſent Treatie.</p>
+            </div>
+            <div n="5" type="article">
+               <head>5.</head>
+               <p>The two Kings being by this preſent Treatie reunited in the ſame good affection and intelligence, where they were formerly in, ſhall imploy themſelues, and indeauour mutually to giue ayde and aſſiſtance vnto their allies and friends, according as by the conſtitution of affaires, and by the aduantage of the Common good ſhall be required, and ſuffered: And all this to the end, thereby to procure an entire quietneſſe for Chriſtendome: For the good whereof, the Ambaſſadours of the two Crownes ſhall re<g ref="char:EOLhyphen"/>ceiue propoſitions and ouertures.</p>
+            </div>
+            <div n="6" type="article">
+               <head>6.</head>
+               <p>All theſe ſaid things being reeſtabliſhed and accepted on the one and the other part, there ſhall be ſent reciprocally Extraordinary Amdaſſadours, Perſons of quality, with the ratification of the preſent agreement; The which ſhall
+<pb n="10" facs="tcp:1139:7"/>bring with them the domination of ordinary Ambaſſa<g ref="char:EOLhyphen"/>dours, that are to reſide in the one and the other Royall Court, thereby to confirme againe the good vnion, and to hinder all occaſions that might trouble the ſame.</p>
+            </div>
+            <div n="7" type="article">
+               <head>7.</head>
+               <p>And whereas there are yet many Ships abroad in the ſea with Letters of Mart, and commiſſion to fight againſt their enemies, which cannot ſo ſoone haue knowledge of this peace, nor receiue order to abſtaine from all hoſtility: therefore it ſhall be agreed vpon by this Article, that what<g ref="char:EOLhyphen"/>ſoeuer ſhall be taken, during the ſpace of two Moneths af<g ref="char:EOLhyphen"/>ter the ſignature of this preſent Treatie, ſhall be reſtored on the one and the other ſide.</p>
+            </div>
+            <div n="8" type="article">
+               <head>8.</head>
+               <p>The two Kings ſhall ſigne theſe preſent Articles on the <hi>24.</hi> day of the moneth of Aprill, the which ſhall afterwards be conſigned and deliuered at the very ſame time by their commandements, into the hands of the Lords Ambaſſa<g ref="char:EOLhyphen"/>dours of Venice, reſiding neere their royall perſons, to be mutually deliuered vnto the ſaid two Kings at the prefix<g ref="char:EOLhyphen"/>ed day, as ſoone as each of them ſhall haue knowledge of the other, that they haue the ſaid Articles in their hands: And from the day of the ſignature, all acts of hoſtility both by Sea and by Land ſhall ceaſe: And Proclamations needfull to this effect, ſhall be publiſhed vpon one day, with<g ref="char:EOLhyphen"/>in the two Kingdomes. Giuen, &amp;c.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:1139:7"/>
+            <head>From the Camp before Priuas, the <hi>28.</hi> of May.</head>
+            <p>VVE gaue yeſterday a ſurious aſſault in two places, <hi>viz.</hi> at one corner and againſt a little Fort called <hi>Tournon,</hi> into which our men entred and remaine there: but we receiued a great loſſe of braue men, as you ſhall ſee by the following liſt. The fight began at 8. of the clocke at the euening, and laſted till 10. We haue to deale with moſt cou<g ref="char:EOLhyphen"/>ragious men, who doe defend themſelues moſt valiantly, knowing perhaps there is no grace for them to be obtained: We onely feare they ſaue themſelues once in a night, ſtealing away into the hills. There are hereabouts certaine men which are called Bandits, and are men who being driuen out of their Townes and from their houſes, doe much trouble all ſuch as come or goe to and from our Camp, killing and taking ſome priſoners, and robbe euery where. They tooke yeſterday a Barge vpon the Rhoſne, wherein there were a great many perſons, and amongſt them Meſſieurs <hi>de Nauailles.</hi>
+            </p>
+            <p>Priuas is but a ſmall Towne betweene two hills, which compaſſe it, but doe not command it, it is but meanely forti<g ref="char:EOLhyphen"/>fied. There is but one houſe not farre from it, where the King is lodged in, and all the Army is camped in the field.</p>
+            <list>
+               <head>The liſt of thoſe that were ſlaine.</head>
+               <item>The Marquis <hi>Des Portes.</hi>
+               </item>
+               <item>The Cheualier or Knight <hi>de la Fertay.</hi>
+               </item>
+               <item>The Count <hi>de Ferrieres,</hi> brother to the Lady Conſtable,</item>
+               <item>The Count <hi>de St. Germain.</hi>
+               </item>
+               <item>Monſieur <hi>de Talanque</hi> Captaine of the Regiment of Nor<g ref="char:EOLhyphen"/>mandie.</item>
+               <item>Both the Lieutenants of the Marquis <hi>de Canillac</hi> and <hi>du Potel,</hi> Captaines of the Cauallerie.</item>
+               <pb n="12" facs="tcp:1139:8"/>
+               <item>All the Sergeants that conducted the Enfans perdus. 35. Light-horſe-men.</item>
+               <item>70. Voluntaries, Gentlemen of qualitie.</item>
+               <item>Twelue other Gentlemen of note, whoſe names I cannot now remember.</item>
+               <item>And foure hundred Souldiers at leaſt.</item>
+            </list>
+            <list>
+               <head>Theſe were hurt.</head>
+               <item>The Count <hi>de la Noy.</hi>
+               </item>
+               <item>The Baron <hi>de Valenſay,</hi> Maſter of the Camp.</item>
+               <item>The ſaid Barons brother.</item>
+               <item>Monſieur <hi>de Piolin,</hi> Captaine of a Regiment in Norman<g ref="char:EOLhyphen"/>die.</item>
+               <item>Both the brothers <hi>de Seneterres.</hi>
+               </item>
+               <item>Monſieur <hi>Deſquilly.</hi>
+               </item>
+               <item>Monſieur <hi>de Maniquan.</hi>
+               </item>
+               <item>Monſieur <hi>de Corigni,</hi> Gouernour of Beaune.</item>
+            </list>
+            <p>By other letters written the 4. of Iune <hi>ſtilo nouo,</hi> we re<g ref="char:EOLhyphen"/>ceiue aſſured newes, that one of the Souldiours of the Gar<g ref="char:EOLhyphen"/>riſon of <hi>Priuas</hi> betrayed the ſaid Towne, and cauſed it to bee ſurprized on the 20. of May, whereby the French Army re<g ref="char:EOLhyphen"/>uenged the foreſaid loſſe, the King cauſing 45. Souldiers to be hanged, that were taken in the Towne, the reſt ſaued themſelues by flight into the hills: And ſome others hauing withdrawne themſelues into a little Fort, yeelded the ſame alſo, and they all (being 25. in number) were alſo hanged, onely Monſieur <hi>de Montbrun</hi> and foure other principall Officers, were ſent priſoners to Valenſay: The Towne of Priuas hath beene pillaged and after burnt. There were found 8. or 9. women, whom the Cardinall ſaued from hanging. The warres doe in thoſe parts daily encreaſe with greater re<g ref="char:EOLhyphen"/>ſolution on both ſides, the Kings Forces endeauouring to ſpoile all the corne, which the Proteſtant Townes might looke for to reape. And it ſeemes that the peace, continuing
+<pb n="13" facs="tcp:1139:8"/>in Italy, as it is from thence confirmed, will be the occaſion of the continuance of the lamentable troubles in thoſe parts of France.</p>
+         </div>
+         <div type="text">
+            <head>From the States Camp before Bolduc or the Buſh, the <hi>25.</hi> of May.</head>
+            <p>OVr Camp is diuided into 5. ſeuerall Quarters, his Ex<g ref="char:EOLhyphen"/>cellence lyes on the South ſide of the Towne, at a vil<g ref="char:EOLhyphen"/>lage called <hi>Vught.</hi> Count <hi>Erneſt</hi> on the Eaſt: The Lord <hi>Bredewde</hi> South-eaſt neere the Cloyſter <hi>Eykendonck.</hi> Count <hi>William</hi> on the North ſide, and <hi>Pinſen</hi> on the Weſt ſide. The Camp is now clozed in by ioyning lines twelue foot high, and 12. foot broad, or thicke at the bottome, and foure at the top: and the ditch before it is of 6. foot deepe, and 12. broad; and without it there is another ditch of the ſame breadth and depth as the former for the ſhooting of the wa<g ref="char:EOLhyphen"/>ter. Vpon ſome other auenues there are made Forts or Horn-workes or Redoubts, the whole ground of the circumualla<g ref="char:EOLhyphen"/>tion is of about 6. houres going. Towards the Towne wee haue as yet done little, but raiſed on the Eaſt and North ſides a Battery as neere to the Towne, as we can come for water. We are alſo drayning the water from the Towne, by the help of a certaine number of hand-mils of excellent inuention. If this proiect of draining can take effect, we beleeue we ſhall make our paſſage to the Towne, with more ſpeed then is ima<g ref="char:EOLhyphen"/>gined. Some ſay the Towne wants victuall, and that they within will be ſtarued out within leſſe then fiue moneths: Others ſay, that their prouiſion of powder is ſo skant, that they can make no reall defence. The truth of theſe aſſertions are onely knowne to our Generall, but I beleeue in want of powder more then want of victuall, and in the way of ap<g ref="char:EOLhyphen"/>proach then the way of ſtaruing. Thus the Dye is caſt, and whatſoeuer the meanes, wit and courage of either ſide can inuent or act, I make no queſtion will be put in execu<g ref="char:EOLhyphen"/>tion, &amp;c.</p>
+            <pb n="14" facs="tcp:1139:9" rendition="simple:additions"/>
+            <p>Concerning the enemie without vs, I cannot tell you much. It is conſtantly reported, that there is great diſorder in their affaires through want of money. There is alſo ano<g ref="char:EOLhyphen"/>ther let by a diſſention betwixt Count <hi>Henry <g ref="char:V">Ʋ</g>andenberg</hi> and <hi>Don Carlo de Colomna,</hi> about the Command in the Mar<g ref="char:EOLhyphen"/>quis abſence. Count <hi>Henry</hi> hauing obtained the command by the Infanta's fauour, hath gotten three moneths pay, but the Souldiers are not content withall, whatſoeuer the matter is: we haue by this gotten ſo much time as hath ſerued vs to digge our ſelues into ſafety, and to blocke vp all acceſſe, which was our principall deſire: and ſo building vpon no re<g ref="char:EOLhyphen"/>port, we expect the vtmoſt of what they dare or can, ra<g ref="char:EOLhyphen"/>ther then they will ſuffer this jewell to be pulled out of their Coronet. The iſſue is in the hand of the God of Battails.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
